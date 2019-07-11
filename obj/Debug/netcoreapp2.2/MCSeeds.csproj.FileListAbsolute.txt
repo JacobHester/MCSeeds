@@ -1,0 +1,14 @@
+/home/justen/workspaces/MCSeeds/bin/Debug/netcoreapp2.2/MCSeeds.deps.json
+/home/justen/workspaces/MCSeeds/bin/Debug/netcoreapp2.2/MCSeeds.runtimeconfig.json
+/home/justen/workspaces/MCSeeds/bin/Debug/netcoreapp2.2/MCSeeds.runtimeconfig.dev.json
+/home/justen/workspaces/MCSeeds/bin/Debug/netcoreapp2.2/MCSeeds.dll
+/home/justen/workspaces/MCSeeds/bin/Debug/netcoreapp2.2/MCSeeds.pdb
+/home/justen/workspaces/MCSeeds/obj/Debug/netcoreapp2.2/MCSeeds.csprojAssemblyReference.cache
+/home/justen/workspaces/MCSeeds/obj/Debug/netcoreapp2.2/MCSeeds.csproj.CoreCompileInputs.cache
+/home/justen/workspaces/MCSeeds/obj/Debug/netcoreapp2.2/MCSeeds.RazorAssemblyInfo.cache
+/home/justen/workspaces/MCSeeds/obj/Debug/netcoreapp2.2/MCSeeds.RazorAssemblyInfo.cs
+/home/justen/workspaces/MCSeeds/obj/Debug/netcoreapp2.2/MCSeeds.AssemblyInfoInputs.cache
+/home/justen/workspaces/MCSeeds/obj/Debug/netcoreapp2.2/MCSeeds.AssemblyInfo.cs
+/home/justen/workspaces/MCSeeds/obj/Debug/netcoreapp2.2/MCSeeds.RazorTargetAssemblyInfo.cache
+/home/justen/workspaces/MCSeeds/obj/Debug/netcoreapp2.2/MCSeeds.dll
+/home/justen/workspaces/MCSeeds/obj/Debug/netcoreapp2.2/MCSeeds.pdb
