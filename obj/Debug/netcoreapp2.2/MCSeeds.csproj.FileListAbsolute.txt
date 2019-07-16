@@ -12,3 +12,17 @@
 /home/justen/workspaces/MCSeeds/obj/Debug/netcoreapp2.2/MCSeeds.RazorTargetAssemblyInfo.cache
 /home/justen/workspaces/MCSeeds/obj/Debug/netcoreapp2.2/MCSeeds.dll
 /home/justen/workspaces/MCSeeds/obj/Debug/netcoreapp2.2/MCSeeds.pdb
+C:\Users\Lazjh\source\repos\MCSeeds\bin\Debug\netcoreapp2.2\MCSeeds.deps.json
+C:\Users\Lazjh\source\repos\MCSeeds\bin\Debug\netcoreapp2.2\MCSeeds.runtimeconfig.json
+C:\Users\Lazjh\source\repos\MCSeeds\bin\Debug\netcoreapp2.2\MCSeeds.runtimeconfig.dev.json
+C:\Users\Lazjh\source\repos\MCSeeds\bin\Debug\netcoreapp2.2\MCSeeds.dll
+C:\Users\Lazjh\source\repos\MCSeeds\bin\Debug\netcoreapp2.2\MCSeeds.pdb
+C:\Users\Lazjh\source\repos\MCSeeds\obj\Debug\netcoreapp2.2\MCSeeds.csprojAssemblyReference.cache
+C:\Users\Lazjh\source\repos\MCSeeds\obj\Debug\netcoreapp2.2\MCSeeds.csproj.CoreCompileInputs.cache
+C:\Users\Lazjh\source\repos\MCSeeds\obj\Debug\netcoreapp2.2\MCSeeds.RazorAssemblyInfo.cache
+C:\Users\Lazjh\source\repos\MCSeeds\obj\Debug\netcoreapp2.2\MCSeeds.RazorAssemblyInfo.cs
+C:\Users\Lazjh\source\repos\MCSeeds\obj\Debug\netcoreapp2.2\MCSeeds.AssemblyInfoInputs.cache
+C:\Users\Lazjh\source\repos\MCSeeds\obj\Debug\netcoreapp2.2\MCSeeds.AssemblyInfo.cs
+C:\Users\Lazjh\source\repos\MCSeeds\obj\Debug\netcoreapp2.2\MCSeeds.RazorTargetAssemblyInfo.cache
+C:\Users\Lazjh\source\repos\MCSeeds\obj\Debug\netcoreapp2.2\MCSeeds.dll
+C:\Users\Lazjh\source\repos\MCSeeds\obj\Debug\netcoreapp2.2\MCSeeds.pdb

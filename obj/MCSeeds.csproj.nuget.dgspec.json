@@ -1,28 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/home/justen/workspaces/MCSeeds/MCSeeds.csproj": {}
+    "C:\\Users\\Lazjh\\source\\repos\\MCSeeds\\MCSeeds.csproj": {}
   },
   "projects": {
-    "/home/justen/workspaces/MCSeeds/MCSeeds.csproj": {
+    "C:\\Users\\Lazjh\\source\\repos\\MCSeeds\\MCSeeds.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/justen/workspaces/MCSeeds/MCSeeds.csproj",
+        "projectUniqueName": "C:\\Users\\Lazjh\\source\\repos\\MCSeeds\\MCSeeds.csproj",
         "projectName": "MCSeeds",
-        "projectPath": "/home/justen/workspaces/MCSeeds/MCSeeds.csproj",
-        "packagesPath": "/home/justen/.nuget/packages/",
-        "outputPath": "/home/justen/workspaces/MCSeeds/obj/",
+        "projectPath": "C:\\Users\\Lazjh\\source\\repos\\MCSeeds\\MCSeeds.csproj",
+        "packagesPath": "C:\\Users\\Lazjh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lazjh\\source\\repos\\MCSeeds\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/home/justen/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Lazjh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,6 +43,10 @@
       "frameworks": {
         "netcoreapp2.2": {
           "dependencies": {
+            "Microsoft.AspNet.WebApi.Cors": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
               "target": "Package",
@@ -55,6 +63,12 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "Microsoft.TypeScript.MSBuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.5.2, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
