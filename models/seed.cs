@@ -5,10 +5,11 @@ namespace MCSeeds.models
         public int SeedID { get; set; }
 
         public string SeedValue { get; set; }
+        public string SeedText {get; set;}
         public string Title { get; set; }
         public string Description { get; set; }
-        public int ImageID { get; set; }
+        public string ImageID { get; set; }
 
-        public int versionID { get; set; }
+        public string versionID { get; set; }
     }
 }

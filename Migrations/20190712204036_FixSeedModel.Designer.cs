@@ -3,18 +3,20 @@ using MCSeeds.models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace MCSeeds.Migrations
 {
     [DbContext(typeof(MCSeedContext))]
-    partial class MCSeedContextModelSnapshot : ModelSnapshot
+    [Migration("20190712204036_FixSeedModel")]
+    partial class FixSeedModel
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "2.2.6-servicing-10079")
+                .HasAnnotation("ProductVersion", "2.2.4-servicing-10062")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
@@ -27,8 +29,6 @@ namespace MCSeeds.Migrations
                     b.Property<string>("Description");
 
                     b.Property<int>("ImageID");
-
-                    b.Property<string>("SeedText");
 
                     b.Property<string>("SeedValue");
 
